@@ -10,7 +10,8 @@
   "scripts": {
     "test": "node http.js"
   },
-  "keywords": [],
+  "files": ["bin", "lib"],
+  "keywords": ["cli-sodap", "sd", "脚手架"],
   "author": {
     "name": "JoySodaPerf"
   },
