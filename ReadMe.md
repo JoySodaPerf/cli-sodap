@@ -1,4 +1,4 @@
-## 搭建一个简单的脚手架
+## Vite-React-TailwindCss-Ts-Vitest-daisyui-Eslint
 
 ### 安装
 

@@ -1,6 +1,6 @@
 {
   "name": "cli-sodap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple cli-vite-react template",
   "main": "bin/cli.js",
   "bin": {
@@ -10,8 +10,15 @@
   "scripts": {
     "test": "node http.js"
   },
-  "files": ["bin", "lib"],
-  "keywords": ["cli-sodap", "sd", "脚手架"],
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "cli-sodap",
+    "sd",
+    "脚手架"
+  ],
   "author": {
     "name": "JoySodaPerf"
   },
